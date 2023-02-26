@@ -19,4 +19,3 @@ print(celsius, "'C is:", round(celsius_to_kelvin, 1), "'K")
 print(kelvin, "'K is:", round(kelvin_to_celsius, 1), "'C")
 print(kelvin, "'K is:", round(kelvin_to_fahrenheit, 2), "'F")
 print(fahrenheit, "'F is:", round(fahrenheit_to_kelvin, 2), "'K")
-
