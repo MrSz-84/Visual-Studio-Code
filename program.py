@@ -9,4 +9,4 @@ print('Całkowita liczba pomarańczy:', pomaranczy_razem)
 
 print(pomaranczowy_krol ** agnieszka // adam)
 
-print("All right reserved.")
+print("All right reserved. ")
